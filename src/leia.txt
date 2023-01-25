@@ -1,0 +1,11 @@
+Rotas
+
+Para o React que trabalha com o conceito de SPA Single Page Application (Aplicação de Página Única). Uma única página que renderiza todos os componentes.
+
+Para se controlar diferentes rotas de uma aplicação, lembrando que todas estão em uma única página, por exemplo:
+    /produtos -> rota para produtos
+    /produtos/23 -> rota para um produto específico, no caso com o id 23
+    /login -> rota para login
+
+Precisamos de um pacote que irá controlar todas estas rotas => Router
+Precisamos configuar todas essas rotas para dizer qual rota irá renderizar cada componente específico e irá retornar um pacote JSX (componete correto correspondente à rota digitada).
