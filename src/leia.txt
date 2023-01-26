@@ -9,3 +9,6 @@ Para se controlar diferentes rotas de uma aplicação, lembrando que todas estã
 
 Precisamos de um pacote que irá controlar todas estas rotas => Router
 Precisamos configuar todas essas rotas para dizer qual rota irá renderizar cada componente específico e irá retornar um pacote JSX (componete correto correspondente à rota digitada).
+
+Para trabalhar com rotas recomenda-se a instalação do pacote react-router-dom. Use => npm install react-router-dom
+(atualmente esse é o pacote mais utilizado para gerenciamento de Rotas, embora, não tenha sido criado pela equipe do React)

@@ -1,3 +1,5 @@
+// A criação desse componente Home é interessante para definir o start da aplicação
+
 import React from 'react'
 
 function Home() {
